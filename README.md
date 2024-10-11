@@ -24,4 +24,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=iamchandanchaudhary&theme=dark&date_format=j%20M%5B%20Y%5D)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamchandanchaudhary" alt="iamchandanchaudhary" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamchandanchaudhary" alt="iamchandanchaudhary" /></a> </p> -->
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=iamchandanchaudhary&theme=light)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamchandanchaudhary&show_icons=true&theme=tokyonight)
