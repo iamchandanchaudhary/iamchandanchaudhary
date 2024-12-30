@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Engineer from India</h3>
 <!-- <img aling="right" alt="coding" width="400" src="https://res.cloudinary.com/duecdt1ps/image/upload/v1728641001/Coding_Bg_npiph0.gif"> -->
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/chandanchaudhary]([https://linktr.ee/chandanchaudhary](https://chandanchaudhary-portfolio.netlify.app/))
+- 👨‍💻 All of my projects are available at [my-portfolio](https://chandanchaudhary-portfolio.netlify.app/)
 
 - 📫 How to reach me **chandanchaudhary533@gmail.com**
 
