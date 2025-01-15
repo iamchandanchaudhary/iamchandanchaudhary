@@ -1,4 +1,4 @@
-![logo](https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/Chandan%20(Cover%20Bg).png)
+![logo](https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/Chandan-Cover.png)
 <h1 align="center">Hello 👋, from Chandan Chaudhary</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <!-- <img aling="right" alt="coding" width="400" src="https://res.cloudinary.com/duecdt1ps/image/upload/v1728641001/Coding_Bg_npiph0.gif"> -->
