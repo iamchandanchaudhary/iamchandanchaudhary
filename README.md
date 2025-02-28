@@ -1,11 +1,11 @@
 ![logo](https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/Chandan-Cover.png)
 <h1 align="center">Hello 👋, from Chandan Chaudhary</h1>
-<h3 align="center">An Aspired and results-oriented Student</h3>
+<h3 align="center">An Aspired and result-oriented Student</h3>
 <!-- <img aling="right" alt="coding" width="400" src="https://res.cloudinary.com/duecdt1ps/image/upload/v1728641001/Coding_Bg_npiph0.gif"> -->
 
-- 👨‍💻 All of my projects are available at [my-portfolio](https://chandanchaudhary-portfolio.netlify.app/)
+- 🔭 Know purely about me on [my-portfolio](https://chandanchaudhary-portfolio.netlify.app/)
 
-- 📫 How to reach me **chandanchaudhary533@gmail.com**
+- 👨‍💻 Let's Talk **chandanchaudhary533@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamchandanchaudhary&label=Profile%20views&color=ff4d00&style=flat" alt="iamchandanchaudhary" /> </p>
 
@@ -14,6 +14,9 @@
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamchandanchaudhary&layout=donut) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamchandanchaudhary&layout=compact)
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamchandanchaudhary&theme=darkhide_progress=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=iamchandanchaudhary&theme=dark&date_format=j%20M%5B%20Y%5D) -->
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=iamchandanchaudhary&theme=dark&date_format=j%20M%5B%20Y%5D)
 
