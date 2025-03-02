@@ -1,8 +1,7 @@
 <!-- ![logo](https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/Chandan-Cover.png) -->
-<p align="center"><a href="https://chandanchaudhary-portfolio.netlify.app/"><img width="100%" alt="Chandan" src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/Chandan-Cover.png" /></a></p>
+<p align="center"><a href="https://chandanchaudhary-portfolio.netlify.app/" target="_blank"><img width="100%" alt="Chandan" src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/Chandan-Cover.png" /></a></p>
 <h1 align="center">Hello 👋, from Chandan Chaudhary</h1>
 <h3 align="center">An Aspired and result-oriented Student</h3>
-<!-- <img aling="right" alt="coding" width="400" src="https://res.cloudinary.com/duecdt1ps/image/upload/v1728641001/Coding_Bg_npiph0.gif"> -->
 
 - 🔭 Know purely about me on [my-portfolio](https://chandanchaudhary-portfolio.netlify.app/)
 
