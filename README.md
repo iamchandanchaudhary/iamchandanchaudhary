@@ -1,7 +1,7 @@
 <!-- ![logo](https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/Chandan-Cover.png) -->
 <p align="center"><a href="https://chandanchaudhary-portfolio.netlify.app/" target="_blank"><img width="100%" alt="Chandan" src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/Chandan-Cover.png" /></a></p>
 <h1 align="center">Hello 👋, from Chandan Chaudhary</h1>
-<h3 align="center">An Aspired and result-oriented Student</h3>
+<h3 align="center">Aspired and result-oriented Software Engineer</h3>
 
 - 🔭 Know purely about me on [my-portfolio](https://chandanchaudhary-portfolio.netlify.app/)
 
@@ -37,8 +37,8 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamchandanchaudhary&layout=donut) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamchandanchaudhary&layout=compact)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamchandanchaudhary&theme=darkhide_progress=false)
-![GitHub Streak](https://streak-stats.demolab.com?user=iamchandanchaudhary&theme=dark&date_format=j%20M%5B%20Y%5D) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamchandanchaudhary&theme=darkhide_progress=false) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=iamchandanchaudhary&theme=dark&date_format=j%20M%5B%20Y%5D) -->
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=iamchandanchaudhary&theme=dark&date_format=j%20M%5B%20Y%5D)
 
