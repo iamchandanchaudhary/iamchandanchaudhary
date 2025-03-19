@@ -45,3 +45,13 @@
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=iamchandanchaudhary&theme=light)
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamchandanchaudhary&show_icons=true&theme=tokyonight) -->
+<!-- NEW -->
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=iamchandanchaudhary&theme=aura&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook,HTML,SCSS)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamchandanchaudhary&theme=aura&show_icons=true&locale=en" alt="iamchandanchaudhary"/></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamchandanchaudhary&&theme=tokyonight" alt="iamchandanchaudhary"/></p>
+-->
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamchandanchaudhary&theme=aura) 
