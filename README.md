@@ -35,14 +35,14 @@
 </p>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamchandanchaudhary&layout=donut) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamchandanchaudhary&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamchandanchaudhary&theme=dark&layout=compact&hide=jupyter%20notebook,HTML,SCSS)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamchandanchaudhary&theme=darkhide_progress=false) -->
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=iamchandanchaudhary&theme=dark&date_format=j%20M%5B%20Y%5D) -->
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=iamchandanchaudhary&theme=dark&date_format=j%20M%5B%20Y%5D)
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=iamchandanchaudhary&theme=light)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=iamchandanchaudhary&theme=dark)
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamchandanchaudhary&show_icons=true&theme=tokyonight) -->
 <!-- NEW -->
