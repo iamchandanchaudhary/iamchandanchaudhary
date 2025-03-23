@@ -6,6 +6,7 @@
 - 🔭 Know purely about me on [my-portfolio](https://chandanchaudhary-portfolio.netlify.app/)
 
 - 👨‍💻 Let's Talk **chandanchaudhary533@gmail.com**
+- 🔭 See my all 100+ Certificates [link](https://www.credly.com/users/chandan--chaudhary)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamchandanchaudhary&label=Profile%20views&color=ff4d00&style=flat" alt="iamchandanchaudhary" /> </p>
 
