@@ -54,4 +54,4 @@
 -->
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamchandanchaudhary&theme=aura) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamchandanchaudhary&theme=radical) 
