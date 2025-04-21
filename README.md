@@ -36,24 +36,26 @@
 
 </p>
 
+## 📊 GitHub Stats:
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamchandanchaudhary&layout=donut) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamchandanchaudhary&theme=dark&layout=compact&hide=jupyter%20notebook,HTML,SCSS)
-
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=iamchandanchaudhary&theme=aura&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook,HTML,SCSS) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamchandanchaudhary&theme=darkhide_progress=false) -->
+
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=iamchandanchaudhary&theme=dark&date_format=j%20M%5B%20Y%5D) -->
-
-![GitHub Streak](https://streak-stats.demolab.com?user=iamchandanchaudhary&theme=dark&date_format=j%20M%5B%20Y%5D)
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=iamchandanchaudhary&theme=dark)
-
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamchandanchaudhary&show_icons=true&theme=tokyonight) -->
-<!-- NEW -->
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=iamchandanchaudhary&theme=aura&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook,HTML,SCSS)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamchandanchaudhary&theme=aura&show_icons=true&locale=en" alt="iamchandanchaudhary"/></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamchandanchaudhary&&theme=tokyonight" alt="iamchandanchaudhary"/></p>
--->
 
+<!-- ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=iamchandanchaudhary&theme=dark) -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamchandanchaudhary&theme=radical) 
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=iamchandanchaudhary&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+
+<!--
+### ✍️ My Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
+
+---
+[![](https://visitcount.itsvg.in/api?id=iamchandanchaudhary&icon=0&color=0)](https://visitcount.itsvg.in)
