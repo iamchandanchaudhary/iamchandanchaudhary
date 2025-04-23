@@ -42,8 +42,8 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=iamchandanchaudhary&theme=aura&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook,HTML,SCSS) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamchandanchaudhary&theme=darkhide_progress=false) -->
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=iamchandanchaudhary&theme=dark&date_format=j%20M%5B%20Y%5D) -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamchandanchaudhary&&theme=tokyonight" alt="iamchandanchaudhary"/></p>
+![GitHub Streak](https://streak-stats.demolab.com?user=iamchandanchaudhary&theme=dark&date_format=j%20M%5B%20Y%5D)
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamchandanchaudhary&&theme=merko" alt="iamchandanchaudhary"/></p> -->
 
 <!-- ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=iamchandanchaudhary&theme=dark) -->
 
@@ -51,7 +51,7 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iamchandanchaudhary&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=iamchandanchaudhary&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 <!--
 ### ✍️ My Quote
