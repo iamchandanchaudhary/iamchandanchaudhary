@@ -51,7 +51,7 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iamchandanchaudhary&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=iamchandanchaudhary&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <!--
 ### ✍️ My Quote
