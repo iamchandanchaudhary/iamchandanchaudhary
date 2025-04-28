@@ -7,7 +7,7 @@
 
 - 👨‍💻 Let's Talk **chandanchaudhary533@gmail.com**
 - 🎓 See my all 100+ Certificates [link](https://www.credly.com/users/chandan--chaudhary)
-- **Note:** *My all Mojor Projects are in Private repository, So you can contact me for better Knowlwdge.*
+- **Note:** *My all Mojor Projects are in Private repository, So you can contact me for better interaction.*
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamchandanchaudhary&label=Profile%20views&color=ff4d00&style=flat" alt="iamchandanchaudhary" /> </p>
 
