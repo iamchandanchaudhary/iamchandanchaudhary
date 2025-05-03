@@ -4,7 +4,7 @@
 <h3 align="center">Aspired and result-oriented Software Engineer</h3>
 
 - 🔭 Know purely about me on [my-portfolio](https://chandanchaudhary-portfolio.netlify.app/)
-- ➡️ Explore my Projects at one Place [stack-gallery](https://stackgallery-chandanchaudhary.netlify.app/)
+- ➡️ Explore my Projects at one place [stack-gallery](https://stackgallery-chandanchaudhary.netlify.app/)
 - 👨‍💻 Let's Talk **chandanchaudhary533@gmail.com**
 - 🎓 See my all 100+ Certificates [link](https://www.credly.com/users/chandan--chaudhary) [link2](https://chandanchaudhary-soon.netlify.app/)
 - **Note:** *My all Mojor Projects are in Private repository, So you can contact me for better interaction.*
@@ -13,11 +13,13 @@
 <a href="https://github.com/thinkright20"> <img src="https://komarev.com/ghpvc/?username=iamchandanchaudhary&style=for-the-badge&color=ff4d00"> </a> 
 
 ## 💻 Languages and Tools
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,express,react,nodejs,css,html,js,ts,tailwind,bootstrap,cpp,java,python,mysql,linux"> </a> </p>
+<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,github,mongodb,express,react,nodejs,css,html,js,ts,tailwind,bootstrap,cpp,java,python,mysql,replit,linux,figma"> </a> </p>
 
 ## 📊 GitHub Stats:
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamchandanchaudhary&theme=dark&layout=compact&hide=jupyter%20notebook,HTML,SCSS) | ![GitHub Streak](https://streak-stats.demolab.com?user=iamchandanchaudhary&theme=dark&date_format=j%20M%5B%20Y%5D) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamchandanchaudhary&theme=dark&layout=compact&hide=jupyter%20notebook,HTML,SCSS) | <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iamchandanchaudhary&theme=dark&hide_border=true&stroke=f53b3b"/> |
 | ------------- | ------------- |
+
+ <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=iamchandanchaudhary&theme=dark&date_format=j%20M%5B%20Y%5D) -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamchandanchaudhary&layout=donut) -->
   <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamchandanchaudhary&theme=dark&layout=compact&hide=jupyter%20notebook,HTML,SCSS) -->
