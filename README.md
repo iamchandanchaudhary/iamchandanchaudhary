@@ -13,7 +13,7 @@
 <a href="https://github.com/thinkright20"> <img src="https://komarev.com/ghpvc/?username=iamchandanchaudhary&style=for-the-badge&color=ff4d00"> </a> 
 
 ## 💻 Languages and Tools
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,github,mongodb,express,react,nodejs,css,html,js,ts,tailwind,bootstrap,cpp,java,python,mysql,replit,linux,figma"> </a> </p>
+<p align="left"> <a href="https://github.com/iamchandanchaudhary"><img src="https://skillicons.dev/icons?i=vscode,github,mongodb,express,react,nodejs,html,css,js,ts,tailwind,bootstrap,cpp,java,python,npm,mysql,replit,linux,figma,netlify,vercel,photoshop,premiere,unity"> </a> </p>
 
 ## 📊 GitHub Stats:
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamchandanchaudhary&theme=dark&layout=compact&hide=jupyter%20notebook,HTML,SCSS) | <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iamchandanchaudhary&theme=dark&hide_border=true&stroke=f53b3b"/> |
@@ -32,7 +32,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamchandanchaudhary&theme=radical) 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iamchandanchaudhary&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=iamchandanchaudhary&theme=radical&no-frame=false&margin-w=4)
 <!-- ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=iamchandanchaudhary&theme=dark) -->
 
 <!--
