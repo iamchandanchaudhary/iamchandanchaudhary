@@ -3,8 +3,15 @@
 <h1 align="center">Hello 👋, from Chandan Chaudhary</h1>
 <h3 align="center">Aspired and result-oriented Software Engineer</h3>
 
+<p align="center">
+ <a href="https://chandanchaudhary-soon.netlify.app" target="_blank"><img alt="" src="https://img.shields.io/badge/Donate-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
+ <a href="https://chandanchaudhary-portfolio.netlify.app" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=netlify&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://www.linkedin.com/in/chandan--chaudhary" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://www.instagram.com/_.chandan_chaudhary" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
+<a href="https://www.youtube.com/@c2explains" target="_blank"><img alt="" src="https://img.shields.io/badge/YouTube-000?logo=youtube&logoColor=ff0000&style=for-the-badge" style="vertical-align:center" /></a></p>
+
 - 🔭 Know purely about me on [my-portfolio](https://chandanchaudhary-portfolio.netlify.app/)
-- ➡️ Explore my Projects at one place [stack-gallery](https://stackgallery-chandanchaudhary.netlify.app/)
+- ➡️ Explore my 50+ Projects at one place [stack-gallery](https://stackgallery-chandanchaudhary.netlify.app/)
 - 👨‍💻 Let's Talk **chandanchaudhary533@gmail.com**
 - 🎓 See my all 100+ Certificates [link](https://www.credly.com/users/chandan--chaudhary) [link2](https://chandanchaudhary-soon.netlify.app/)
 - **Note:** *My all Mojor Projects are in Private repository, So you can contact me for better interaction.*
