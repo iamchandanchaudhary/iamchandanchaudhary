@@ -19,9 +19,19 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamchandanchaudhary&label=Profile%20views&color=ff4d00&style=flat" alt="iamchandanchaudhary" /> </p> -->
 <a href="https://github.com/thinkright20"> <img src="https://komarev.com/ghpvc/?username=iamchandanchaudhary&style=for-the-badge&color=ff4d00"> </a> 
+<!-- [![](https://visitcountpro.netlify.app/api?id=iamchandanchaudhary&pretty=true)](https://visitcount.itsvg.in) -->
 
 ## 💻 Languages and Tools
 <p align="left"> <a href="https://github.com/iamchandanchaudhary"><img src="https://skillicons.dev/icons?i=vscode,github,mongodb,express,react,nodejs,html,css,js,ts,tailwind,bootstrap,cpp,java,python,npm,mysql,replit,linux,figma,netlify,vercel,photoshop,premiere,unity"> </a> </p>
+
+``` java
+ if (codeWorking) {
+     while (codeQuality < perfectCode) {
+         codeQuality++;
+     }
+ }
+ // - Chandan Chaudhary
+```
 
 ## 📊 GitHub Stats:
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamchandanchaudhary&theme=dark&layout=compact&hide=jupyter%20notebook,HTML,SCSS) | <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iamchandanchaudhary&theme=dark&hide_border=true&stroke=f53b3b"/> |
