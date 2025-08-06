@@ -1,6 +1,11 @@
 <!-- ![logo](https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/Chandan-Cover.png) -->
 <p align="center"><a href="https://chandanchaudhary-portfolio.netlify.app/" target="_blank"><img width="100%" alt="Chandan" src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/Chandan-Cover.png" /></a></p>
-<h1 align="center">Hello 👋, from Chandan Chaudhary</h1>
+<!-- <h1 align="center">Hello 👋, from Chandan Chaudhary</h1> -->
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=FE428E&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+👋,+from;Chandan+Chaudhary;Full-Stack+Software+Developer;+Open+Source+Contributor;" />
+</h2>
+
 <h3 align="center">Aspired and result-oriented Software Engineer</h3>
 
 <p align="center">
@@ -33,7 +38,7 @@
  // - Chandan Chaudhary
 ```
 
-## 📊 GitHub Stats:
+## <h2><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30">  GitHub Stats:
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamchandanchaudhary&theme=dark&layout=compact&hide=jupyter%20notebook,HTML,SCSS) | <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iamchandanchaudhary&theme=dark&hide_border=true&stroke=f53b3b"/> |
 | ------------- | ------------- |
 
