@@ -3,7 +3,7 @@
 <!-- <h1 align="center">Hello 👋, from Chandan Chaudhary</h1> -->
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=ff4d00&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+👋,+from;Chandan+Chaudhary;Full-Stack+Software+Developer;+Open+Source+Contributor;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=ff4d00&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+👋,+from;Chandan+Chaudhary;Full-Stack+Software+Developer;+Open+Source+Contributor;+Devops;+DSA(Java);+Git+and+GitHub" />
 </h2>
 
 <h3 align="center">A passionate problem solver, hardworking and team-oriented person</h3>
