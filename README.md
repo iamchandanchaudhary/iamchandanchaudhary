@@ -1,4 +1,3 @@
-<!-- ![logo](https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/Chandan-Cover.png) -->
 <p align="center"><a href="https://chandanchaudhary-portfolio.netlify.app/" target="_blank"><img width="100%" alt="Chandan" src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/Chandan-Cover.png" /></a></p>
 <!-- <h1 align="center">Hello 👋, from Chandan Chaudhary</h1> -->
 
