@@ -19,7 +19,10 @@
 - ➡️ Explore my 50+ Projects at one place [stack-gallery](https://stackgallery-chandanchaudhary.netlify.app/)
 - 👨‍💻 Let's Talk **chandanchaudhary533@gmail.com**
 - 🎓 See my all 100+ Certificates [link](https://www.credly.com/users/chandan--chaudhary) [link2](https://chandanchaudhary-soon.netlify.app/)
-- **Note:** *My all Mojor Projects are in Private repository, So you can contact me for better interaction.*
+
+<!-- **Note:** *My all Mojor Projects are in Private repository, So you can contact me for better interaction.* -->
+<h2 align="center"><img alt="" src="https://img.shields.io/badge/All my Mojor Projects are in Private repository, So you can contact me for better interaction.-023430?style=for-the-badge" style="vertical-align:center" /></h2>
+<!-- `My all Mojor Projects are in Private repository, So you can contact me for better interaction.` 9e0059 -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamchandanchaudhary&label=Profile%20views&color=ff4d00&style=flat" alt="iamchandanchaudhary" /> </p> -->
 <a href="https://github.com/thinkright20"> <img src="https://komarev.com/ghpvc/?username=iamchandanchaudhary&style=for-the-badge&color=ff4d00"> </a> 
