@@ -18,6 +18,7 @@
 </p>
 
 - 🔭 Know purely about me on [my-portfolio](https://chandanchaudhary-portfolio.netlify.app/)
+- 🌐 My Website [link](https://c2explains-chandanchaudhary.onrender.com/)
 - ➡️ Explore my 50+ Projects at one place [stack-gallery](https://stackgallery-chandanchaudhary.netlify.app/)
 - 👨‍💻 Let's Talk **chandanchaudhary533@gmail.com**
 - 🎓 See my all 100+ Certificates [link](https://drive.google.com/drive/folders/1JoRy_K5MQ2px5_mfsz4NtAHRKsT9T9p5) [link2](https://www.credly.com/users/chandan--chaudhary)
@@ -62,6 +63,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamchandanchaudhary&theme=radical) 
 <!-- GitHub Stats: Ended -->
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="iamchandanchaudhary's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=iamchandanchaudhary&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <!-- GitHub Trophies: Started -->
 ## 🏆 GitHub Trophies
