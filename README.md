@@ -1,11 +1,9 @@
 <p align="center"><a href="https://chandanchaudhary-portfolio.netlify.app/" target="_blank"><img width="100%" alt="Chandan" src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/New_Cover1.jpg" /></a></p>
-<!-- <h1 align="center">Hello 👋, from Chandan Chaudhary</h1> -->
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=ff4d00&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+👋,+from;Chandan+Chaudhary;Full-Stack+Software+Developer;+Open+Source+Contributor;+Devops;+DSA(Java);+Git+and+GitHub" />
 </h2>
 
-<!-- <h3 align="center">A passionate problem solver, hardworking and team-oriented person</h3> -->
 <h3 align="center">I love creating new things ⚡</h3>
 <p align="center">Turning imagination into reality 🚀</p>
 
@@ -25,9 +23,7 @@
 
 <h2 align="center"><img alt="" src="https://img.shields.io/badge/All my Mojor Projects are in Private repository, So you can contact me for better interaction.-023430?style=for-the-badge" style="vertical-align:center" /></h2>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamchandanchaudhary&label=Profile%20views&color=ff4d00&style=flat" alt="iamchandanchaudhary" /> </p> -->
-<a href="https://github.com/thinkright20"> <img src="https://komarev.com/ghpvc/?username=iamchandanchaudhary&style=for-the-badge&color=ff4d00"> </a> 
-<!-- [![](https://visitcountpro.netlify.app/api?id=iamchandanchaudhary&pretty=true)](https://visitcount.itsvg.in) -->
+<a href="https://github.com/iamchandanchaudhary"> <img src="https://komarev.com/ghpvc/?username=iamchandanchaudhary&style=for-the-badge&color=ff4d00"> </a> 
 
 <!-- ## My Creation 👨‍💻
 ### <img align='center' src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/C2-Logo-Favicon.jpg" width="30px" />  Portfolio -->
@@ -51,16 +47,6 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamchandanchaudhary&theme=dark&layout=compact&hide=jupyter%20notebook,HTML,SCSS) | <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iamchandanchaudhary&theme=dark&hide_border=true&stroke=f53b3b"/> |
 | ------------- | ------------- |
 
- <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=iamchandanchaudhary&theme=dark&date_format=j%20M%5B%20Y%5D) -->
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamchandanchaudhary&layout=donut) -->
-  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamchandanchaudhary&theme=dark&layout=compact&hide=jupyter%20notebook,HTML,SCSS) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=iamchandanchaudhary&theme=aura&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook,HTML,SCSS) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamchandanchaudhary&theme=darkhide_progress=false) -->
-
-  <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=iamchandanchaudhary&theme=dark&date_format=j%20M%5B%20Y%5D) -->
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamchandanchaudhary&&theme=merko" alt="iamchandanchaudhary"/></p> -->
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamchandanchaudhary&theme=radical) 
 <!-- GitHub Stats: Ended -->
 
@@ -69,7 +55,6 @@
 <!-- GitHub Trophies: Started -->
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=iamchandanchaudhary&theme=radical&no-frame=false&margin-w=4)
-<!-- ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=iamchandanchaudhary&theme=dark) -->
 <!-- GitHub Stats: Ended -->
 
 <!--
