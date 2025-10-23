@@ -5,7 +5,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=ff4d00&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+👋,+from;Chandan+Chaudhary;Full-Stack+Software+Developer;+Open+Source+Contributor;+Devops;+DSA(Java);+Git+and+GitHub" />
 </h2>
 
-<h3 align="center">A passionate problem solver, hardworking and team-oriented person</h3>
+<!-- <h3 align="center">A passionate problem solver, hardworking and team-oriented person</h3> -->
+<h3 align="center">I love creating new things ⚡</h3>
+<p align="center">Turning imagination into reality 🚀</p>
 
 <p align="center">
  <a href="https://chandanchaudhary-soon.netlify.app" target="_blank"><img alt="" src="https://img.shields.io/badge/Donate-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
@@ -18,7 +20,7 @@
 - 🔭 Know purely about me on [my-portfolio](https://chandanchaudhary-portfolio.netlify.app/)
 - ➡️ Explore my 50+ Projects at one place [stack-gallery](https://stackgallery-chandanchaudhary.netlify.app/)
 - 👨‍💻 Let's Talk **chandanchaudhary533@gmail.com**
-- 🎓 See my all 100+ Certificates [link](https://www.credly.com/users/chandan--chaudhary) [link2](https://chandanchaudhary-soon.netlify.app/)
+- 🎓 See my all 100+ Certificates [link](https://drive.google.com/drive/folders/1JoRy_K5MQ2px5_mfsz4NtAHRKsT9T9p5) [link2](https://www.credly.com/users/chandan--chaudhary)
 
 <h2 align="center"><img alt="" src="https://img.shields.io/badge/All my Mojor Projects are in Private repository, So you can contact me for better interaction.-023430?style=for-the-badge" style="vertical-align:center" /></h2>
 
