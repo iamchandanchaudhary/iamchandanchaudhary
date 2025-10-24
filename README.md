@@ -27,6 +27,19 @@
 <a href="https://github.com/iamchandanchaudhary"> <img src="https://komarev.com/ghpvc/?username=iamchandanchaudhary&style=for-the-badge&color=ff4d00"> </a> 
 <!-- Top Introduction: Ended -->
 
+<!-- My Creation: Started -->
+## 👨‍💻 My Creation 
+
+### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/c2-logo-portfolio.jpg" width="16px" />  Portfolio 
+[Chandan Chaudhary - Portfolio](https://chandanchaudhary-portfolio.netlify.app/),
+</> and Crafted with 💛 by Chandan Chaudhary
+
+### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/logo.png" width="16px" />  SafeShere
+[SafeShere](https://safe-sphere-sos.vercel.app/) s a women’s safety application designed to help users stay secure by providing emergency contact management, AI-driven support, and real-time safety features. </br>
+**🧑‍🤝‍🧑 Contributors:** Chandan Chaudhary, Faraz Mirza, Adnan Sheikh, Enaba Salman
+
+<!-- My Creation: Ended -->
+
 <!-- Tools and Frameworks: Started -->
 ## <img align='left' src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" align="center"> Tools and Frameworks:
 <p align="left"> <a href="https://github.com/iamchandanchaudhary"><img src="https://skillicons.dev/icons?i=vscode,github,mongodb,express,react,nodejs,html,css,js,ts,tailwind,bootstrap,cpp,java,python,npm,mysql,replit,linux,figma,netlify,vercel,photoshop,premiere,unity"> </a> </p>
@@ -52,14 +65,6 @@
 <!-- GitHub Stats: Ended -->
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="iamchandanchaudhary's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=iamchandanchaudhary&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-<!-- My Creation: Started -->
-## My Creation 👨‍💻
-
-### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/C2-Logo-Favicon.jpg" width="16px" />  Portfolio 
-[Chandan Chaudhary - Portfolio](https://chandanchaudhary-portfolio.netlify.app/),
-</> and Crafted with 💛 by Chandan Chaudhary
-<!-- My Creation: Ended -->
 
 <!-- GitHub Trophies: Started -->
 ## 🏆 GitHub Trophies
