@@ -13,7 +13,7 @@
     <a href="https://chandanchaudhary-portfolio.netlify.app" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=netlify&logoColor=05bdbb&style=for-the-badge" style="vertical-align:center" /></a>
     <a href="https://www.linkedin.com/in/chandan--chaudhary" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
     <a href="https://www.instagram.com/_.chandan_chaudhary" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
-    <a href="https://www.youtube.com/@c2explains" target="_blank"><img alt="" src="https://img.shields.io/badge/YouTube-000?logo=youtube&logoColor=ff0000&style=for-the-badge" style="vertical-align:center" /></a>
+    <a href="https://www.youtube.com/@c2explains" target="_blank"><img alt="" src="https://img.shields.io/badge/YouTube-000?logo=youtube&logoColor=f58219&style=for-the-badge" style="vertical-align:center" /></a>
 </p>
 
 - 🔭 Know purely about me on [my-portfolio](https://chandanchaudhary-portfolio.netlify.app/)
@@ -22,7 +22,7 @@
 - 👨‍💻 Let's Talk **chandanchaudhary533@gmail.com**
 - 🎓 See my all 100+ Certificates [link](https://drive.google.com/drive/folders/1JoRy_K5MQ2px5_mfsz4NtAHRKsT9T9p5) [link2](https://www.credly.com/users/chandan--chaudhary)
 
-<h2 align="center"><img alt="" src="https://img.shields.io/badge/All my Mojor Projects are in Private repository, So you can contact me for better interaction.-023430?style=for-the-badge" style="vertical-align:center" /></h2>
+<h2 align="center"><img alt="" src="https://img.shields.io/badge/All my Mojor Projects are in Private repository, So you can contact me for better interaction.-00599c?style=for-the-badge" style="vertical-align:center" /></h2>
 
 <a href="https://github.com/iamchandanchaudhary"> <img src="https://komarev.com/ghpvc/?username=iamchandanchaudhary&style=for-the-badge&color=ff4d00"> </a> 
 <!-- Top Introduction: Ended -->
@@ -37,6 +37,10 @@
 ### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/logo.png" width="16px" />  SafeShere
 [SafeShere](https://safe-sphere-sos.vercel.app/) s a women’s safety application designed to help users stay secure by providing emergency contact management, AI-driven support, and real-time safety features. </br>
 **🧑‍🤝‍🧑 Contributors:** Chandan Chaudhary, Faraz Mirza, Adnan Sheikh, Enaba Salman
+
+### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/c2-exp-logo.jpg" width="16px" />  C2Explain 
+[C2Explain - Chandan Chaudhary](https://c2explains-chandanchaudhary.onrender.com/),
+</> and Crafted with 🧡 by Chandan Chaudhary
 
 <!-- My Creation: Ended -->
 
