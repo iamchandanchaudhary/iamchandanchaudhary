@@ -32,15 +32,15 @@
 
 ### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/c2-logo-portfolio.jpg" width="16px" />  Portfolio 
 [Chandan Chaudhary - Portfolio](https://chandanchaudhary-portfolio.netlify.app/),
-</> and Crafted with 💛 by Chandan Chaudhary
+</> and Crafted with 💛 by Chandan Chaudhary.
 
-### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/logo.png" width="16px" />  SafeShere
+### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/safesphare-logo.png" width="16px" />  SafeShere
 [SafeShere](https://safe-sphere-sos.vercel.app/) s a women’s safety application designed to help users stay secure by providing emergency contact management, AI-driven support, and real-time safety features. </br>
 **🧑‍🤝‍🧑 Contributors:** Chandan Chaudhary, Faraz Mirza, Adnan Sheikh, Enaba Salman
 
-### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/c2-exp-logo.jpg" width="16px" />  C2Explain 
+### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/c2-exp-logo.png" width="16px" />  C2Explain 
 [C2Explain - Chandan Chaudhary](https://c2explains-chandanchaudhary.onrender.com/),
-</> and Crafted with 🧡 by Chandan Chaudhary
+</> Accelerate your web development workflow, whether you're building sleek dashboards, dynamic landing pages, or scalable web applications 🧡 by Chandan Chaudhary.
 
 <!-- My Creation: Ended -->
 
