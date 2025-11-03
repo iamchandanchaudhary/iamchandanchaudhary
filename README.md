@@ -1,4 +1,4 @@
-<p align="center"><a href="https://chandanchaudhary-portfolio.netlify.app/" target="_blank"><img width="100%" alt="Chandan" src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/New_Cover1.jpg" /></a></p>
+<img width="1244" height="768" alt="Screenshot 2025-10-31 223011" src="https://github.com/user-attachments/assets/2b957606-f285-49aa-8768-60befbb0ad69" /><p align="center"><a href="https://chandanchaudhary-portfolio.netlify.app/" target="_blank"><img width="100%" alt="Chandan" src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/New_Cover1.jpg" /></a></p>
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=ff4d00&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+👋,+from;Chandan+Chaudhary;Full-Stack+Software+Developer;+Open+Source+Contributor;+Devops;+DSA(Java);+Git+and+GitHub" />
@@ -73,6 +73,16 @@
 <!-- GitHub Stats: Ended -->
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="iamchandanchaudhary's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=iamchandanchaudhary&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+## Open Source Contributions
+
+<div align="center">
+  
+[![Hacktoberfest 2025](https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?logo=hackthebox&logoColor=white)](https://hacktoberfest.com/)
+  
+</div>
+
+[![An image of @iamchandanchaudhary's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamchandanchaudhary)](https://holopin.io/@iamchandanchaudhary)
 
 <!-- GitHub Trophies: Started -->
 ## 🏆 GitHub Trophies
