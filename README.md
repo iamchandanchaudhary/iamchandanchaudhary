@@ -72,7 +72,10 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamchandanchaudhary&theme=radical) 
 <!-- GitHub Stats: Ended -->
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="iamchandanchaudhary's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=iamchandanchaudhary&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<!-- GitHub Statics: Started -->
+<!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="iamchandanchaudhary's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=iamchandanchaudhary&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
+[![Chandan Chaudhary's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iamchandanchaudhary&theme=react-dark)](https://github.com/iamchandanchaudhary)
+<!-- GitHub Statics: Ended -->
 
 <!-- Open Source Stats: Started -->
 ## Open Source Contributions
