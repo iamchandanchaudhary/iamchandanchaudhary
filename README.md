@@ -78,7 +78,7 @@
 <!-- GitHub Statics: Ended -->
 
 <!-- Open Source Stats: Started -->
-## Open Source Contributions
+## 🕸️ Open Source Contributions
 <div align="center">
   
 [![Hacktoberfest 2025](https://img.shields.io/badge/Hacktoberfest-2025-e9c441?logo=hackthebox&logoColor=white)](https://hacktoberfest.com/)
