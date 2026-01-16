@@ -66,8 +66,8 @@
 
 <!-- GitHub Stats: Started -->
 ## <h2><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30">  GitHub Stats:
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamchandanchaudhary&theme=dark&layout=compact&hide=jupyter%20notebook,HTML,SCSS) | <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iamchandanchaudhary&theme=dark&hide_border=true&stroke=f53b3b"/> |
-| ------------- | ------------- |
+<!-- | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamchandanchaudhary&theme=dark&layout=compact&hide=jupyter%20notebook,HTML,SCSS) | <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iamchandanchaudhary&theme=dark&hide_border=true&stroke=f53b3b"/> |
+| ------------- | ------------- | -->
 <!-- NEW -->
 | <a href="https://github.com/DenverCoder1/github-readme-streak-stats"> <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="iamchandanchaudhary's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=iamchandanchaudhary&theme=dark&hide_border=true&short_numbers=true&stroke=f53b3b"/> </a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="iamchandanchaudhary's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=iamchandanchaudhary&langs_count=8&layout=compact&theme=dark&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff,HTML,SCSS" height="192px"/></a> |
 | ------------- | ------------- |
