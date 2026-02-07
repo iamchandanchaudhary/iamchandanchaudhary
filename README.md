@@ -50,7 +50,7 @@
 
 <!-- Tools and Frameworks: Started -->
 ## <img align='left' src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" align="center"> Tools and Frameworks:
-<p align="left"> <a href="https://github.com/iamchandanchaudhary"><img src="https://skillicons.dev/icons?i=vscode,github,mongodb,express,react,nodejs,html,css,js,ts,tailwind,bootstrap,cpp,java,python,npm,mysql,replit,linux,figma,netlify,vercel,photoshop,premiere,unity"> </a> </p>
+<p align="left"> <a href="https://github.com/iamchandanchaudhary"><img src="https://skillicons.dev/icons?i=vscode,github,mongodb,express,react,nodejs,next,html,css,js,ts,tailwind,bootstrap,cpp,java,python,npm,mysql,replit,linux,figma,netlify,vercel,postman,photoshop,premiere,unity,md"> </a> </p>
 <!-- Tools and Frameworks: Ended -->
 
 <!-- Code Slogan: Started -->
