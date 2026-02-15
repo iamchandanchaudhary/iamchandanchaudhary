@@ -34,9 +34,9 @@
 [Chandan Chaudhary - Portfolio](https://chandanchaudhary-portfolio.netlify.app/),
 </> and Crafted with 🩵 by Chandan Chaudhary.
 
-### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/safesphare-logo.png" width="16px" />  SafeShere
-[SafeShere](https://safe-sphere-sos.vercel.app/) is a women’s safety application designed to help users stay secure by providing emergency contact management, AI-driven support, and real-time safety features. </br>
-**🧑‍🤝‍🧑 Contributors:** Chandan Chaudhary, Faraz Mirza, Adnan Sheikh, Enaba Salman
+### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/lth-logo.png" width="16px" />  Lucknow Trading House 
+[Lucknow Trading House](https://lucknowtradinghouse.com/),
+</> I built a complete website for Lucknow Trading House as part of my internship experience. From planning the layout to development and deployment — I worked on the project end-to-end. This was a great opportunity to apply my skills in web development and build something impactful 💜 by Chandan Chaudhary.
 
 ### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/c2-exp-logo.png" width="16px" />  C2Explain 
 [C2Explain - Chandan Chaudhary](https://c2explains-chandanchaudhary.onrender.com/),
@@ -45,6 +45,10 @@
 ### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/c2-logo-stackgallery.png" width="16px" />  StackGallery 
 [StackGallery - Chandan Chaudhary](https://stackgallery-chandanchaudhary.netlify.app/),
 </> is a curated collection of the projects I’ve worked on — from web apps and UI components to full-stack builds. Each project showcases my skills in design, development, and problem-solving. and Crafted with 💛 by Chandan Chaudhary.
+
+### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/safesphare-logo.png" width="16px" />  SafeShere
+[SafeShere](https://safe-sphere-sos.vercel.app/) is a women’s safety application designed to help users stay secure by providing emergency contact management, AI-driven support, and real-time safety features. </br>
+**🧑‍🤝‍🧑 Contributors:** Chandan Chaudhary, Faraz Mirza, Adnan Sheikh, Enaba Salman
 
 <!-- My Creation: Ended -->
 
