@@ -97,7 +97,7 @@
 <!-- GitHub Stats: Ended -->
 
 <!--
-### ✍️ My Quote
+### ✍️ Today's Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
 <!-- Thick line at the end 👇 -->
