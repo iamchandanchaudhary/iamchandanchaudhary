@@ -6,7 +6,7 @@
 
 <!-- Top Introduction: Ended -->
 <h3 align="center">I love creating new things ⚡</h3>
-<p align="center">Turning imagination into reality 🚀</p>
+<p align="center">Turning ideas into scalable digital solutions. 🚀</p>
 
 <p align="center">
     <a href="https://chandanchaudhary-soon.netlify.app" target="_blank"><img alt="" src="https://img.shields.io/badge/Donate-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
@@ -38,15 +38,26 @@
 [Lucknow Trading House](https://lucknowtradinghouse.com/),
 </> I built a complete website for Lucknow Trading House as part of my internship experience. From planning the layout to development and deployment — I worked on the project end-to-end. This was a great opportunity to apply my skills in web development and build something impactful 💜 by Chandan Chaudhary.
 
+### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/NexeraFavicon.png" width="16px" />  Nexera - Next Era of Style 
+[Nexera - Next Era of Style](https://www.nexeraonline.in/),
+</> Nexera — a modern, responsive e-commerce site I designed and developed for a client, focused on stylish womenswear and an easy shopping experience. Includes an admin dashboard for effortless product and order management and brand-aligned visuals that reinforce Nexera’s “Next Era of Style” identity and Crafted with 🩷 by Chandan Chaudhary.
+
 ### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/c2-exp-logo.png" width="16px" />  C2Explain 
 [C2Explain - Chandan Chaudhary](https://c2explains-chandanchaudhary.onrender.com/),
-</> Accelerate your web development workflow, whether you're building sleek dashboards, dynamic landing pages, or scalable web applications 🧡 by Chandan Chaudhary.
+</> This platform designed to help developers accelerate their workflow by providing reusable frontend components, developer tools, and learning resources. The platform allows users to explore free and premium UI components, access practical development guides, and integrate modern design elements into their projects efficiently. 🧡 by Chandan Chaudhary.
 
 ### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/c2-logo-stackgallery.png" width="16px" />  StackGallery 
 [StackGallery - Chandan Chaudhary](https://stackgallery-chandanchaudhary.netlify.app/),
 </> is a curated collection of the projects I’ve worked on — from web apps and UI components to full-stack builds. Each project showcases my skills in design, development, and problem-solving. and Crafted with 💛 by Chandan Chaudhary.
 
+## ➕ My Contributed Repositories
+### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/favicon3.png" width="16px" />  Patient-Management-System
+[Repository Link](https://github.com/DevendraJaiswal074/Patient-Management-System) </br>
+[Patient-Management-System](https://chandanchaudhary-soon.netlify.app) A web-based Patient Management System designed for local hospitals and clinics to efficiently manage patient appointments, daily records, and doctor workflows. This project helps hospital staff and doctors organize appointments, maintain patient history, and communicate appointment details with patients easily. </br>
+**🧑‍🤝‍🧑 Contributors:** Chandan Chaudhary, Deepanshu Yadav, Devendra Jaiswal
+
 ### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/safesphare-logo.png" width="16px" />  SafeShere
+[Repository Link](https://github.com/farazmirzax/safe-sphere) </br>
 [SafeShere](https://safe-sphere-sos.vercel.app/) is a women’s safety application designed to help users stay secure by providing emergency contact management, AI-driven support, and real-time safety features. </br>
 **🧑‍🤝‍🧑 Contributors:** Chandan Chaudhary, Faraz Mirza, Adnan Sheikh, Enaba Salman
 
@@ -72,6 +83,7 @@
 ## <h2><img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30">  GitHub Stats:
 <!-- | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamchandanchaudhary&theme=dark&layout=compact&hide=jupyter%20notebook,HTML,SCSS) | <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=iamchandanchaudhary&theme=dark&hide_border=true&stroke=f53b3b"/> |
 | ------------- | ------------- | -->
+
 <!-- NEW -->
 | <a href="https://github.com/iamchandanchaudhary"> <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="iamchandanchaudhary's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=iamchandanchaudhary&theme=dark&hide_border=true&short_numbers=true&stroke=f53b3b"/> </a> | <a href="https://github.com/iamchandanchaudhary"><img alt="iamchandanchaudhary's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=iamchandanchaudhary&langs_count=8&layout=compact&theme=dark&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff,HTML,SCSS" height="192px"/></a> |
 | ------------- | ------------- |
@@ -96,8 +108,10 @@
 <!-- Open Source Stats: Ended -->
 
 <!-- GitHub Trophies: Started -->
+<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=iamchandanchaudhary&theme=radical&no-frame=false&margin-w=4)
+-->
 <!-- GitHub Stats: Ended -->
 
 <!--
