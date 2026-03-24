@@ -9,7 +9,7 @@
 <p align="center">Turning ideas into scalable digital solutions. 🚀</p>
 
 <p align="center">
-    <a href="https://chandanchaudhary-soon.netlify.app" target="_blank"><img alt="" src="https://img.shields.io/badge/Donate-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
+    <a href="https://www.buymeacoffee.com/chandancha8" target="_blank"><img alt="" src="https://img.shields.io/badge/Donate-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
     <a href="https://chandanchaudhary-portfolio.netlify.app" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=netlify&logoColor=05bdbb&style=for-the-badge" style="vertical-align:center" /></a>
     <a href="https://www.linkedin.com/in/chandan--chaudhary" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
     <a href="https://www.instagram.com/_.chandan_chaudhary" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
