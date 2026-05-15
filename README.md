@@ -1,4 +1,4 @@
-<p align="center"><a href="https://portfolio.chandanchaudhary.in" target="_blank"><img width="100%" alt="Chandan" src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/New_Cover1.jpg" /></a></p>
+<p align="center"><a href="https://www.chandanchaudhary.in" target="_blank"><img width="100%" alt="Chandan" src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/New_Cover1.jpg" /></a></p>
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=ff4d00&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+👋,+from;Chandan+Chaudhary;Full-Stack+Software+Developer;+Open+Source+Contributor;+Devops;+DSA(Java);+Git+and+GitHub" />
@@ -10,7 +10,7 @@
 
 <p align="center">
     <a href="https://www.buymeacoffee.com/chandancha8" target="_blank"><img alt="" src="https://img.shields.io/badge/Donate-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
-    <a href="https://chandanchaudhary-portfolio.netlify.app" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=netlify&logoColor=05bdbb&style=for-the-badge" style="vertical-align:center" /></a>
+    <a href="https://portfolio.chandanchaudhary.in" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=netlify&logoColor=05bdbb&style=for-the-badge" style="vertical-align:center" /></a>
     <a href="https://www.linkedin.com/in/chandan--chaudhary" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
     <a href="https://www.instagram.com/_.chandan_chaudhary" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
     <a href="https://www.youtube.com/@c2explains" target="_blank"><img alt="" src="https://img.shields.io/badge/YouTube-000?logo=youtube&logoColor=f58219&style=for-the-badge" style="vertical-align:center" /></a>
