@@ -1,4 +1,4 @@
-<p align="center"><a href="https://chandanchaudhary-portfolio.netlify.app/" target="_blank"><img width="100%" alt="Chandan" src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/New_Cover1.jpg" /></a></p>
+<p align="center"><a href="https://portfolio.chandanchaudhary.in" target="_blank"><img width="100%" alt="Chandan" src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/New_Cover1.jpg" /></a></p>
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=ff4d00&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+👋,+from;Chandan+Chaudhary;Full-Stack+Software+Developer;+Open+Source+Contributor;+Devops;+DSA(Java);+Git+and+GitHub" />
@@ -16,9 +16,9 @@
     <a href="https://www.youtube.com/@c2explains" target="_blank"><img alt="" src="https://img.shields.io/badge/YouTube-000?logo=youtube&logoColor=f58219&style=for-the-badge" style="vertical-align:center" /></a>
 </p>
 
-- 🔭 Know purely about me on [my-portfolio](https://chandanchaudhary-portfolio.netlify.app/)
-- 🌐 Check out my own e-commerce website [link](https://c2explains-chandanchaudhary.onrender.com/)
-- ➡️ Explore my 50+ Projects at one place [stack-gallery](https://stackgallery-chandanchaudhary.netlify.app/)
+- 🔭 Know purely about me on [my-portfolio](https://portfolio.chandanchaudhary.in)
+- 🌐 Check out my own e-commerce website [link](https://c2explains.chandanchaudhary.in)
+- ➡️ Explore my 50+ Projects at one place [stack-gallery](https://stackgallery.chandanchaudhary.in)
 - 👨‍💻 Let's Talk **chandanchaudhary533@gmail.com**
 - 🎓 See my all 100+ Certificates [link](https://drive.google.com/drive/folders/1JoRy_K5MQ2px5_mfsz4NtAHRKsT9T9p5) [link2](https://www.credly.com/users/chandan--chaudhary)
 
@@ -31,7 +31,7 @@
 ## 👨‍💻 My Creation 
 
 ### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/c2-logo-portfolio.jpg" width="16px" />  Portfolio 
-[Chandan Chaudhary - Portfolio](https://chandanchaudhary-portfolio.netlify.app/),
+[Chandan Chaudhary - Portfolio](https://portfolio.chandanchaudhary.in),
 </> and Crafted with 🩵 by Chandan Chaudhary.
 
 ### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/lth-logo.png" width="16px" />  Lucknow Trading House 
@@ -43,11 +43,11 @@
 </> Nexera — a modern, responsive e-commerce site I designed and developed for a client, focused on stylish womenswear and an easy shopping experience. Includes an admin dashboard for effortless product and order management and brand-aligned visuals that reinforce Nexera’s “Next Era of Style” identity and Crafted with 🩷 by Chandan Chaudhary.
 
 ### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/c2-exp-logo.png" width="16px" />  C2Explain 
-[C2Explain - Chandan Chaudhary](https://c2explains-chandanchaudhary.onrender.com/),
+[C2Explain - Chandan Chaudhary](https://c2explains.chandanchaudhary.in),
 </> This platform designed to help developers accelerate their workflow by providing reusable frontend components, developer tools, and learning resources. The platform allows users to explore free and premium UI components, access practical development guides, and integrate modern design elements into their projects efficiently. 🧡 by Chandan Chaudhary.
 
 ### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/c2-logo-stackgallery.png" width="16px" />  StackGallery 
-[StackGallery - Chandan Chaudhary](https://stackgallery-chandanchaudhary.netlify.app/),
+[StackGallery - Chandan Chaudhary](https://stackgallery.chandanchaudhary.in),
 </> is a curated collection of the projects I’ve worked on — from web apps and UI components to full-stack builds. Each project showcases my skills in design, development, and problem-solving. and Crafted with 💛 by Chandan Chaudhary.
 
 ## ➕ My Contributed Repositories
