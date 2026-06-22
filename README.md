@@ -1,7 +1,7 @@
-<p align="center"><a href="https://www.chandanchaudhary.in" target="_blank"><img width="100%" alt="Chandan" src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/New_Cover1.jpg" /></a></p>
+<p align="center"><a href="https://www.chandanchaudhary.in" target="_blank"><img width="100%" alt="Chandan" src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/Chandan-Cover.png" /></a></p>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=ff4d00&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+👋,+from;Chandan+Chaudhary;Full-Stack+Software+Developer;+Open+Source+Contributor;+Devops;+DSA(Java);+Git+and+GitHub" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=ff4d00&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+👋,+from;Chandan+Chaudhary;Full-Stack+Software+Developer;+Open+Source+Contributor;+Devops;+DSA(Java);Freelancer" />
 </h2>
 
 <!-- Top Introduction: Ended -->
@@ -35,11 +35,11 @@
 </> and Crafted with 🩵 by Chandan Chaudhary.
 
 ### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/lth-logo.png" width="16px" />  Lucknow Trading House 
-[Lucknow Trading House](https://lucknowtradinghouse.com/),
+[Lucknow Trading House](https://lucknowtradinghouse.com),
 </> I built a complete website for Lucknow Trading House as part of my internship experience. From planning the layout to development and deployment — I worked on the project end-to-end. This was a great opportunity to apply my skills in web development and build something impactful 💜 by Chandan Chaudhary.
 
 ### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/NexeraFavicon.png" width="16px" />  Nexera - Next Era of Style 
-[Nexera - Next Era of Style](https://www.nexeraonline.in/),
+[Nexera - Next Era of Style](https://www.nexeraonline.in),
 </> Nexera — a modern, responsive e-commerce site I designed and developed for a client, focused on stylish womenswear and an easy shopping experience. Includes an admin dashboard for effortless product and order management and brand-aligned visuals that reinforce Nexera’s “Next Era of Style” identity and Crafted with 🩷 by Chandan Chaudhary.
 
 ### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/c2-exp-logo.png" width="16px" />  C2Explain 
@@ -53,7 +53,7 @@
 ## ➕ My Contributed Repositories
 ### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/favicon3.png" width="16px" />  Patient-Management-System
 [Repository Link](https://github.com/DevendraJaiswal074/Patient-Management-System) </br>
-[Patient-Management-System](https://chandanchaudhary-soon.netlify.app) A web-based Patient Management System designed for local hospitals and clinics to efficiently manage patient appointments, daily records, and doctor workflows. This project helps hospital staff and doctors organize appointments, maintain patient history, and communicate appointment details with patients easily. </br>
+[Patient-Management-System](https://patient-management-system-eovi.onrender.com) A web-based Patient Management System designed for local hospitals and clinics to efficiently manage patient appointments, daily records, and doctor workflows. This project helps hospital staff and doctors organize appointments, maintain patient history, and communicate appointment details with patients easily. </br>
 **🧑‍🤝‍🧑 Contributors:** Chandan Chaudhary, Deepanshu Yadav, Devendra Jaiswal
 
 ### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/safesphare-logo.png" width="16px" />  SafeShere
