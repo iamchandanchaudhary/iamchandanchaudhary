@@ -17,7 +17,7 @@
 </p>
 
 - 🔭 Know purely about me on [my-portfolio](https://portfolio.chandanchaudhary.in)
-- 🌐 Check out my own e-commerce website [link](https://c2explains.chandanchaudhary.in)
+- 🌐 Check out my own e-commerce website [link](https://c2codebase.chandanchaudhary.in/)
 - ➡️ Explore my 50+ Projects at one place [stack-gallery](https://stackgallery.chandanchaudhary.in)
 - 👨‍💻 Let's Talk **chandanchaudhary533@gmail.com**
 - 🎓 See my all 100+ Certificates [link](https://drive.google.com/drive/folders/1JoRy_K5MQ2px5_mfsz4NtAHRKsT9T9p5) [link2](https://www.credly.com/users/chandan--chaudhary)
@@ -30,7 +30,7 @@
 <!-- My Creation: Started -->
 ## 👨‍💻 My Creation 
 
-### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/c2-logo-portfolio.jpg" width="16px" />  Portfolio 
+### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/c2codebase-portfolio.jpg" width="16px" />  Portfolio 
 [Chandan Chaudhary - Portfolio](https://portfolio.chandanchaudhary.in),
 </> and Crafted with 🩵 by Chandan Chaudhary.
 
@@ -38,20 +38,20 @@
 [Lucknow Trading House](https://lucknowtradinghouse.com),
 </> I built a complete website for Lucknow Trading House as part of my internship experience. From planning the layout to development and deployment — I worked on the project end-to-end. This was a great opportunity to apply my skills in web development and build something impactful 💜 by Chandan Chaudhary.
 
-### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/NexeraFavicon.png" width="16px" />  Nexera - Next Era of Style 
+### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/Nexera-Logo.png" width="16px" />  Nexera - Next Era of Style 
 [Nexera - Next Era of Style](https://www.nexeraonline.in),
 </> Nexera — a modern, responsive e-commerce site I designed and developed for a client, focused on stylish womenswear and an easy shopping experience. Includes an admin dashboard for effortless product and order management and brand-aligned visuals that reinforce Nexera’s “Next Era of Style” identity and Crafted with 🩷 by Chandan Chaudhary.
 
-### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/c2-exp-logo.png" width="16px" />  C2Explain 
-[C2Explain - Chandan Chaudhary](https://c2explains.chandanchaudhary.in),
+### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/c2codebase-logo.png" width="16px" />  C2Codebase 
+[C2Codebase - Chandan Chaudhary](https://c2codebase.chandanchaudhary.in),
 </> This platform designed to help developers accelerate their workflow by providing reusable frontend components, developer tools, and learning resources. The platform allows users to explore free and premium UI components, access practical development guides, and integrate modern design elements into their projects efficiently. 🧡 by Chandan Chaudhary.
 
-### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/c2-logo-stackgallery.png" width="16px" />  StackGallery 
+### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/c2codebase-stackgallery.png" width="16px" />  StackGallery 
 [StackGallery - Chandan Chaudhary](https://stackgallery.chandanchaudhary.in),
 </> is a curated collection of the projects I’ve worked on — from web apps and UI components to full-stack builds. Each project showcases my skills in design, development, and problem-solving. and Crafted with 💛 by Chandan Chaudhary.
 
 ## ➕ My Contributed Repositories
-### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/favicon3.png" width="16px" />  Patient-Management-System
+### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/pms-logo.png" width="16px" />  Patient-Management-System
 [Repository Link](https://github.com/DevendraJaiswal074/Patient-Management-System) </br>
 [Patient-Management-System](https://patient-management-system-eovi.onrender.com) A web-based Patient Management System designed for local hospitals and clinics to efficiently manage patient appointments, daily records, and doctor workflows. This project helps hospital staff and doctors organize appointments, maintain patient history, and communicate appointment details with patients easily. </br>
 **🧑‍🤝‍🧑 Contributors:** Chandan Chaudhary, Deepanshu Yadav, Devendra Jaiswal
