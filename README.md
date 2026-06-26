@@ -30,7 +30,7 @@
 <!-- My Creation: Started -->
 ## 👨‍💻 My Creation 
 
-### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/c2codebase-portfolio.jpg" width="16px" />  Portfolio 
+### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/c2codebase-portfolio.png" width="16px" />  Portfolio 
 [Chandan Chaudhary - Portfolio](https://portfolio.chandanchaudhary.in),
 </> and Crafted with 🩵 by Chandan Chaudhary.
 
