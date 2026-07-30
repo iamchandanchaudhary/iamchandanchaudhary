@@ -1,12 +1,12 @@
 <p align="center"><a href="https://www.chandanchaudhary.in" target="_blank"><img width="100%" alt="Chandan" src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/Chandan-Cover.png" /></a></p>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=ff4d00&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+👋,+from;Chandan+Chaudhary;Full-Stack+Software+Developer;+Open+Source+Contributor;+Devops;+DSA(Java);Freelancer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=ff4d00&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+👋,+from+Chandan;Software+Developer;+Open+Source+Contributor;+Devops;+DSA(Java);Freelancer" />
 </h2>
 
-<!-- Top Introduction: Ended -->
-<h3 align="center">I love creating new things ⚡</h3>
-<p align="center">Turning ideas into scalable digital solutions. 🚀</p>
+<!-- Top Introduction: Start -->
+<h3 align="center">I Love innovating the World ⚡</h3>
+<p align="center">Turn ideas into scalable digital solutions. 🚀</p>
 
 <p align="center">
     <a href="https://www.buymeacoffee.com/chandancha8" target="_blank"><img alt="" src="https://img.shields.io/badge/Donate-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
@@ -18,7 +18,7 @@
 
 - 🔭 Know purely about me on [my-portfolio](https://portfolio.chandanchaudhary.in)
 - 🌐 Check out my own e-commerce website [link](https://c2codebase.chandanchaudhary.in/)
-- ➡️ Explore my 50+ Projects at one place [stack-gallery](https://stackgallery.chandanchaudhary.in)
+- ➡️ Explore my all Projects at one place [stack-gallery](https://stackgallery.chandanchaudhary.in)
 - 👨‍💻 Let's Talk **chandanchaudhary533@gmail.com**
 - 🎓 See my all 100+ Certificates [link](https://drive.google.com/drive/folders/1JoRy_K5MQ2px5_mfsz4NtAHRKsT9T9p5) [link2](https://www.credly.com/users/chandan--chaudhary)
 
@@ -65,7 +65,7 @@
 
 <!-- Tools and Frameworks: Started -->
 ## <img align='left' src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30" align="center"> Tools and Frameworks:
-<p align="left"> <a href="https://github.com/iamchandanchaudhary"><img src="https://skillicons.dev/icons?i=vscode,github,mongodb,express,react,nodejs,next,html,css,js,ts,tailwind,bootstrap,cpp,java,python,npm,mysql,replit,linux,figma,netlify,vercel,postman,photoshop,premiere,unity,md"> </a> </p>
+<p align="left"> <a href="https://github.com/iamchandanchaudhary"><img src="https://skillicons.dev/icons?i=vscode,github,git,mongodb,express,react,nodejs,next,html,css,js,ts,tailwind,bootstrap,cpp,java,python,npm,mysql,replit,linux,figma,netlify,vercel,postman,photoshop,premiere,unity,md"> </a> </p>
 <!-- Tools and Frameworks: Ended -->
 
 <!-- Code Slogan: Started -->
