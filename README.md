@@ -5,19 +5,21 @@
 </h2>
 
 <!-- Top Introduction: Start -->
-<h3 align="center">I Love innovating the World ⚡</h3>
-<p align="center">Turn ideas into scalable digital solutions. 🚀</p>
+<h3 align="center">I Love Bringing Ideas to Life Through Code ☕</h3>
+<p align="center">Transforming ideas into production-ready digital products with clean architecture and thoughtful engineering. 🚀</p>
 
 <p align="center">
-    <a href="https://www.buymeacoffee.com/chandancha8" target="_blank"><img alt="" src="https://img.shields.io/badge/Donate-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
-    <a href="https://portfolio.chandanchaudhary.in" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=netlify&logoColor=05bdbb&style=for-the-badge" style="vertical-align:center" /></a>
+    <a href="https://portfolio.chandanchaudhary.in" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=ff4d00&style=for-the-badge" style="vertical-align:center" /></a>
+    <a href="https://clientportal.chandanchaudhary.in" target="_blank"><img alt="" src="https://img.shields.io/badge/Client_Portal-000?logo=auth0&logoColor=EB5424&style=for-the-badge" style="vertical-align:center" /></a>
     <a href="https://www.linkedin.com/in/chandan--chaudhary" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
-    <a href="https://www.instagram.com/_.chandan_chaudhary" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
-    <a href="https://www.youtube.com/@c2explains" target="_blank"><img alt="" src="https://img.shields.io/badge/YouTube-000?logo=youtube&logoColor=f58219&style=for-the-badge" style="vertical-align:center" /></a>
+    <a href="https://www.youtube.com/@c2explains" target="_blank"><img alt="" src="https://img.shields.io/badge/YouTube-000?logo=youtube&logoColor=FF0000&style=for-the-badge" style="vertical-align:center" /></a>
+    <a href="https://www.instagram.com/_.chandan_chaudhary" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?logo=instagram&logoColor=E4405F&style=for-the-badge" style="vertical-align:center" /></a>
+    <a href="https://www.buymeacoffee.com/chandancha8" target="_blank"><img alt="" src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black&style=for-the-badge" style="vertical-align:center" /></a>
 </p>
 
 - 🔭 Know purely about me on [my-portfolio](https://portfolio.chandanchaudhary.in)
-- 🌐 Check out my own e-commerce website [link](https://c2codebase.chandanchaudhary.in/)
+- ☕ Try my Clinet Portal for Freenalce [link](https://clientportal.chandanchaudhary.in)
+- 🌐 Check out my own Developers Platform [link](https://c2codebase.chandanchaudhary.in)
 - ➡️ Explore my all Projects at one place [stack-gallery](https://stackgallery.chandanchaudhary.in)
 - 👨‍💻 Let's Talk **chandanchaudhary533@gmail.com**
 - 🎓 See my all 100+ Certificates [link](https://drive.google.com/drive/folders/1JoRy_K5MQ2px5_mfsz4NtAHRKsT9T9p5) [link2](https://www.credly.com/users/chandan--chaudhary)
