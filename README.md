@@ -5,11 +5,11 @@
 </h2>
 
 <!-- Top Introduction: Start -->
-<h3 align="center">I Love Bringing Ideas to Life Through Code ☕</h3>
-<p align="center">Transforming ideas into production-ready digital products with clean architecture and thoughtful engineering. 🚀</p>
+<h3 align="center">I Love Code & Craft ☕</h3>
+<p align="center">Building production-ready digital products with clean architecture and thoughtful engineering. 🚀</p>
 
 <p align="center">
-    <a href="https://portfolio.chandanchaudhary.in" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=ff4d00&style=for-the-badge" style="vertical-align:center" /></a>
+    <a href="https://portfolio.chandanchaudhary.in" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logoColor=ff4d00&style=for-the-badge" style="vertical-align:center" /></a>
     <a href="https://clientportal.chandanchaudhary.in" target="_blank"><img alt="" src="https://img.shields.io/badge/Client_Portal-000?logo=auth0&logoColor=EB5424&style=for-the-badge" style="vertical-align:center" /></a>
     <a href="https://www.linkedin.com/in/chandan--chaudhary" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
     <a href="https://www.youtube.com/@c2explains" target="_blank"><img alt="" src="https://img.shields.io/badge/YouTube-000?logo=youtube&logoColor=FF0000&style=for-the-badge" style="vertical-align:center" /></a>
