@@ -5,8 +5,8 @@
 </h2>
 
 <!-- Top Introduction: Start -->
-<h3 align="center">I Love Code & Craft ☕</h3>
-<p align="center">Building production-ready digital products with clean architecture and thoughtful engineering. 🚀</p>
+<h3 align="center">Code & Craft ☕</h3>
+<p align="center">Building production-ready applications with clean architecture and thoughtful engineering. 🚀</p>
 
 <p align="center">
     <a href="https://portfolio.chandanchaudhary.in" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logoColor=ff4d00&style=for-the-badge" style="vertical-align:center" /></a>
