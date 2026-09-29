@@ -36,21 +36,21 @@
 [Chandan Chaudhary - Portfolio](https://portfolio.chandanchaudhary.in),
 </> and Crafted with 🩵 by Chandan Chaudhary.
 
-### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/lth-logo.png" width="16px" />  Lucknow Trading House 
-[Lucknow Trading House](https://lucknowtradinghouse.com),
-</> I built a complete website for Lucknow Trading House as part of my internship experience. From planning the layout to development and deployment — I worked on the project end-to-end. This was a great opportunity to apply my skills in web development and build something impactful 💜 by Chandan Chaudhary.
+### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/saronex.png" width="16px" />  Saronex 
+[Saronex](https://www.saronex.com/),
+</> is a freelance full-stack web application built for an agriculture-focused company to showcase and manage services across data analysis, academic resources, seed technology, and farming solutions. The platform includes a website, admin dashboard, authentication, file handling, and workflow management to support the company’s scientific and agricultural operations. and Crafted with 💚 by Chandan Chaudhary.
 
 ### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/Nexera-Logo.png" width="16px" />  Nexera - Next Era of Style 
 [Nexera - Next Era of Style](https://www.nexeraonline.in),
 </> Nexera — a modern, responsive e-commerce site I designed and developed for a client, focused on stylish womenswear and an easy shopping experience. Includes an admin dashboard for effortless product and order management and brand-aligned visuals that reinforce Nexera’s “Next Era of Style” identity and Crafted with 🩷 by Chandan Chaudhary.
 
+### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/lth-logo.png" width="16px" />  Lucknow Trading House 
+[Lucknow Trading House](https://lucknowtradinghouse.com),
+</> I built a complete website for Lucknow Trading House as part of my internship experience. From planning the layout to development and deployment — I worked on the project end-to-end. This was a great opportunity to apply my skills in web development and build something impactful 💜 by Chandan Chaudhary.
+
 ### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/c2codebase-logo.png" width="16px" />  C2Codebase 
 [C2Codebase - Chandan Chaudhary](https://c2codebase.chandanchaudhary.in),
 </> This platform designed to help developers accelerate their workflow by providing reusable frontend components, developer tools, and learning resources. The platform allows users to explore free and premium UI components, access practical development guides, and integrate modern design elements into their projects efficiently. 🧡 by Chandan Chaudhary.
-
-### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/c2codebase-stackgallery.png" width="16px" />  StackGallery 
-[StackGallery - Chandan Chaudhary](https://stackgallery.chandanchaudhary.in),
-</> is a curated collection of the projects I’ve worked on — from web apps and UI components to full-stack builds. Each project showcases my skills in design, development, and problem-solving. and Crafted with 💛 by Chandan Chaudhary.
 
 ## ➕ My Contributed Repositories
 ### <img src="https://github.com/iamchandanchaudhary/iamchandanchaudhary/blob/main/assets/pms-logo.png" width="16px" />  Patient-Management-System
